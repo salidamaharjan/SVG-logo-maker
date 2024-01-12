@@ -7,8 +7,10 @@ const toIncludeInLogo = [{
     message: "Enter three character you want to include in logo"
 }]
 
+//question appear in command line 
 async function startMakingLogo() {
     const displayQUestion = await inquirer.prompt(toIncludeInLogo);
 }
 
+//function called to initialize the app
 startMakingLogo();
