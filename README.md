@@ -34,6 +34,7 @@
 
 ## Run
 * To start the project use `node index.js` command.
+* To test the code use `node test` command.
 
 ## Usage
 * User can create a logo answering the prompt questions.
