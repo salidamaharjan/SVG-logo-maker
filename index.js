@@ -1,6 +1,8 @@
 //import inquirer
 const inquirer = require("inquirer");
+//import object using object destructuring
 const { Circle, Triangle, Square } = require("./lib/shapes");
+//import file system
 const fs = require('fs/promises');
 
 //Prepare a array of question
@@ -29,6 +31,7 @@ const toIncludeInLogo = [
 async function startMakingLogo(response) {
   const displayQUestion = await inquirer.prompt(toIncludeInLogo);
   let shape;
+  //using switch case to capture the word, shape and color for the logo according to user input
   switch (displayQUestion.shapes) {
     case 'Circle':
       shape = new Circle(displayQUestion.word, displayQUestion.shapeColor, displayQUestion.textColor);
@@ -39,6 +42,7 @@ async function startMakingLogo(response) {
     case 'Square':
       shape = new Square(displayQUestion.word, displayQUestion.shapeColor, displayQUestion.textColor);
   }
+  //data is stored in logo.svg file on hte basis of user answer
   await fs.writeFile('logo.svg', shape.draw());
   console.log("Logo Created");
 }
