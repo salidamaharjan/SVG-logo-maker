@@ -37,6 +37,7 @@
 * [JSDoc](https://jsdoc.app/)
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 * [Promises writeFile](https://www.geeksforgeeks.org/node-js-fspromises-writefile-method/)
+* [Regex101](https://regex101.com/)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
