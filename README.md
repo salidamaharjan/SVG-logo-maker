@@ -6,11 +6,14 @@
 * This project is built to help the user to generate SVG logo.
 * User can create a logo answering to question displayed.
 * The questions are displayed as follow:
+![Questions](./assets/images/question.png)
 * Based on the choices a logo is created.
 * With the completion of this project, I learned about node, npm and object oriented programming.
-  I
+  
 ## How to run the project
 * Click on the following link to watch how to run video:
+
+[![Video Thumbnail](./assets/images/Video-thumbnail.png)](https://www.youtube.com/watch?v=LgOWSdZnXDw)
 
 ## Table of content
 1. [Installation](#installation)
