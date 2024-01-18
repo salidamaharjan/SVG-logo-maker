@@ -1,5 +1,5 @@
 
-<svg>
-<polygon points="70,10 10,110 130,110"  fill="green" />
-<text x="70" y="80" font-size="40" font-weight="bold" text-anchor="middle" alignment-baseline="middle" fill="red">log</text>
+<svg fill="#000000" width="200px" height="300px" viewBox="0 0 15 15" version="1.1" id="square" xmlns="http://www.w3.org/2000/svg">
+<path d="M13,14H2c-0.5523,0-1-0.4477-1-1V2c0-0.5523,0.4477-1,1-1h11c0.5523,0,1,0.4477,1,1v11C14,13.5523,13.5523,14,13,14z" fill="blue"/>
+<text x="50%" y="60%" font-size="4px" text-anchor="middle" fill="pink" font-weight="bold">men</text>
 </svg>
