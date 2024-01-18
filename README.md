@@ -18,7 +18,7 @@
 ## How to run the project
 * Click on the following link to watch how to run video:
 
-[![Video Thumbnail](./assets/images/Video-thumbnail.png)](https://www.youtube.com/watch?v=LgOWSdZnXDw)
+[![Video Thumbnail](./assets/images/Video-thumbnail.png)](https://www.youtube.com/watch?v=D7_6VMp-pzw)
 
 ## Table of content
 1. [Installation](#installation)
