@@ -1,0 +1,5 @@
+
+<svg>
+<polygon points="70,10 10,110 130,110"  fill="green" />
+<text x="70" y="80" font-size="40" font-weight="bold" text-anchor="middle" alignment-baseline="middle" fill="red">log</text>
+</svg>
