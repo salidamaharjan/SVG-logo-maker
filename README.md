@@ -7,7 +7,12 @@
 * User can create a logo answering to question displayed.
 * The questions are displayed as follow:
 ![Questions](./assets/images/question.png)
-* Based on the choices a logo is created.
+
+* Based on the choices a logo is saved under `logo.svg` file as follow:
+![logo.svg-Image](./assets/images/logo.svg.png)
+
+* A following sample logo is displayed when open with five server:
+![sample logo](./assets/images/sample-logo.png)
 * With the completion of this project, I learned about node, npm and object oriented programming.
   
 ## How to run the project
