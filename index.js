@@ -41,6 +41,7 @@ async function startMakingLogo(response) {
       break;
     case 'Square':
       shape = new Square(displayQUestion.word, displayQUestion.shapeColor, displayQUestion.textColor);
+      break;
   }
   //data is stored in logo.svg file on hte basis of user answer
   await fs.writeFile('logo.svg', shape.draw());
